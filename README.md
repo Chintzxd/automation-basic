@@ -2,6 +2,6 @@
 hello i'm anjali
 how are you 
 
-devops BY gani
+devops BY ganesh
 
 
