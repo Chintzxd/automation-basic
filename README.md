@@ -2,6 +2,6 @@
 hello i'm anjali
 how are you 
 
-  devops BY ganeshh
+  devops BY GANESH
 
 
