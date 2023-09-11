@@ -1,9 +1,10 @@
 # hi ganesh
 hello i'm anjali
-how are you 
+how are you
+Iam from usa
 
 
 
 
-devops BY datta okay
+devops BY ganesh okay
 
